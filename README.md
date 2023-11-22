@@ -3,7 +3,7 @@
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/sahil-009/face-Attendence-System-
+git clone https://github.com/sahil-009/face-Attendence-System-.git
 ```
 
 Step 2: Download all ruquirements:
